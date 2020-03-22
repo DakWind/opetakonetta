@@ -170,7 +170,7 @@ function draw () {
         scale(-1, 1);
         image(video, 0, 0, video.width, video.height);
 
-        if (pose && state != 'AI valmis') {
+        if (pose && state != 'AI valmis' && state != 'onnistuit!') {
             for (let i = 0; i < pose.keypoints.length; i++) {
                 let x = pose.keypoints[i].position.x;
                 let y = pose.keypoints[i].position.y;
