@@ -1,7 +1,7 @@
 {
-  "name": "tietolaitos ai peli",
+  "name": "opetakonetta",
   "version": "1.0.0",
-  "description": "tietolaitos ai peli",
+  "description": "opetakonetta",
   "main": "server.js",
   "dependencies": {
     "express": "^4.17.1"
@@ -15,7 +15,7 @@
     "url": "git+https://github.com/DakWind/opetakonetta.git"
   },
   "keywords": [
-    "tietolaitos ai peli"
+    "opetakonetta"
   ],
   "author": "Aku Pyykkönen",
   "license": "ISC",
