@@ -18,7 +18,7 @@ const modelInfo = {
     weigths: 'model/model.weigths.bin',
 }
 
-// datan keruu ja tallentaminen jsoniksi
+// datan keruu ja tallentaminen jsoniksi...
 function keyPressed() {
     if (key == 's') {
         state = 'AI opettelee asennot...';
